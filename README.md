@@ -1,4 +1,4 @@
-#Assembly Pipelines
+# Assembly Pipelines
 Created by Dua Vang for Masters Thesis - May 2022; Last updated June 2022
 
 Pipelines include de novo, hybrid, and consensus assemblies for Genome-enabled SynCom in maize. 
@@ -7,7 +7,7 @@ Pipelines include de novo, hybrid, and consensus assemblies for Genome-enabled S
 ## de novo assembly using SPAdes
 NOTE: Pipeline is compatible with only MacOS (M1 chip)
 
-###Installations: 
+### Installations: 
 - Download  SPAdes here: [http://cab.spbu.ru/software/spades/ 
 ]()	
 
