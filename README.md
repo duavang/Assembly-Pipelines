@@ -26,7 +26,7 @@ $ cd SPAdes-3.15.1-Darwin/bin/
 
 ```
 
-###Pipeline: 
+### Pipeline: 
 1. If adapters are still on your reads, run ```trim_galore``` to remove them:
 	
 	```
